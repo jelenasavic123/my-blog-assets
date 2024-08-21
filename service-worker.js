@@ -7,7 +7,7 @@ const urlsToCache = [
   '/p/lista-svih-serija_5.html',  // Dodajte sve URL-ove koje želite da keširate
   'https://jelenasavic123.github.io/my-blog-assets/icon192.png',
   'https://jelenasavic123.github.io/my-blog-assets/icon512.png',
-  'https://jelenasavic123.github.io/my-blog-assets/icon-360x360.png',
+  'https://jelenasavic123.github.io/my-blog-assets/icon360.png',
   'https://jelenasavic123.github.io/my-blog-assets/icon640.png',
   'https://jelenasavic123.github.io/my-blog-assets/screenshot1.png',
   'https://jelenasavic123.github.io/my-blog-assets/screenshot2.png'
