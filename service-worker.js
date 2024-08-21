@@ -5,10 +5,10 @@ const urlsToCache = [
   '/styles/main.css',
   '/scripts/main.js',
   '/p/lista-svih-serija_5.html',  // Dodajte sve URL-ove koje želite da keširate
-  'https://jelenasavic123.github.io/my-blog-assets/icons/icon-192x192.png',
-  'https://jelenasavic123.github.io/my-blog-assets/icons/icon-512x512.png',
-  'https://jelenasavic123.github.io/my-blog-assets/icons/icon-360x360.png',
-  'https://jelenasavic123.github.io/my-blog-assets/icons/icon-640x640.png',
+  'https://jelenasavic123.github.io/my-blog-assets/icon-192x192.png',
+  'https://jelenasavic123.github.io/my-blog-assets/icon-512x512.png',
+  'https://jelenasavic123.github.io/my-blog-assets/icon-360x360.png',
+  'https://jelenasavic123.github.io/my-blog-assets/icon-640x640.png',
   'https://jelenasavic123.github.io/my-blog-assets/screenshot1.png',
   'https://jelenasavic123.github.io/my-blog-assets/screenshot2.png'
 ];
