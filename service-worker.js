@@ -4,8 +4,11 @@ const urlsToCache = [
   '/index.html',
   '/styles/main.css',
   '/scripts/main.js',
-  '/p/lista-svih-serija_5.html',  // Dodajte sve URL-ove koje želite da keširate
-  // Dodajte ostale URL-ove stranica koje želite da keširate
+  '/p/lista-svih-serija_5.html',
+  'https://jelenasavic123.github.io/my-blog-assets/icons/icon-192x192.png',
+  'https://jelenasavic123.github.io/my-blog-assets/icons/icon-512x512.png',
+  'https://jelenasavic123.github.io/my-blog-assets/icons/icon-360x360.png',
+  'https://jelenasavic123.github.io/my-blog-assets/icons/icon-640x640.png'
 ];
 
 // Instalirajte service worker i keširajte stranice
