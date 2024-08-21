@@ -5,5 +5,59 @@
   "start_url": "https://www.svenadlanuplus.club/p/lista-svih-serija_5.html",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#000000"
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://jelenasavic123.github.io/my-blog-assets/slike/16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "https://jelenasavic123.github.io/my-blog-assets/slike/32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "https://jelenasavic123.github.io/my-blog-assets/slike/48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "https://jelenasavic123.github.io/my-blog-assets/slike/64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "https://jelenasavic123.github.io/my-blog-assets/slike/128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "https://jelenasavic123.github.io/my-blog-assets/slike/192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://jelenasavic123.github.io/my-blog-assets/slike/360.png",
+      "sizes": "360x360",
+      "type": "image/png"
+    },
+    {
+      "src": "https://jelenasavic123.github.io/my-blog-assets/slike/512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://jelenasavic123.github.io/my-blog-assets/slike/screenshot1.png",
+      "sizes": "360x640",
+      "type": "image/png"
+    },
+    {
+      "src": "https://jelenasavic123.github.io/my-blog-assets/slike/screenshot2.png",
+      "sizes": "360x640",
+      "type": "image/png"
+    }
+  ]
 }
