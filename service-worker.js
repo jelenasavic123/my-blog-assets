@@ -15,7 +15,9 @@ const urlsToCache = [
   'https://jelenasavic123.github.io/my-blog-assets/512.png',
   'https://jelenasavic123.github.io/my-blog-assets/screen360x640.png',
   'https://jelenasavic123.github.io/my-blog-assets/1280x800.png',
-  'https://jelenasavic123.github.io/my-blog-assets/screen360x640-2.png'
+  'https://jelenasavic123.github.io/my-blog-assets/screen360x640-2.png',
+  'https://www.svenadlanuplus.club/p/nasa-preporuka.html', // Dodajte URL stranice koju želite keširati
+  '/offline.html' // Ako imate offline stranicu, dodajte je ovde
 ];
 
 // Instalirajte servisni radnik i keširajte stranice
@@ -48,8 +50,10 @@ self.addEventListener('activate', (event) => {
 self.addEventListener('fetch', (event) => {
   event.respondWith(
     caches.match(event.request).then((response) => {
-      // Vraća keširani odgovor ako postoji, inače preuzima sa mreže
-      return response || fetch(event.request);
+      return response || fetch(event.request).catch(() => {
+        // Vraća offline stranicu ako je mreža nedostupna
+        return caches.match('/offline.html');
+      });
     })
   );
 });
