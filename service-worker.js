@@ -14,6 +14,7 @@ const urlsToCache = [
   'https://jelenasavic123.github.io/my-blog-assets/360.png',
   'https://jelenasavic123.github.io/my-blog-assets/512.png',
   'https://jelenasavic123.github.io/my-blog-assets/screen360x640.png',
+  'https://jelenasavic123.github.io/my-blog-assets/1280x800.png',
   'https://jelenasavic123.github.io/my-blog-assets/screen360x640-2.png'
 ];
 
