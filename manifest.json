@@ -8,54 +8,54 @@
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "https://jelenasavic123.github.io/my-blog-assets/slike/16.png",
+      "src": "https://jelenasavic123.github.io/my-blog-assets/16.png",
       "sizes": "16x16",
       "type": "image/png"
     },
     {
-      "src": "https://jelenasavic123.github.io/my-blog-assets/slike/32.png",
+      "src": "https://jelenasavic123.github.io/my-blog-assets/32.png",
       "sizes": "32x32",
       "type": "image/png"
     },
     {
-      "src": "https://jelenasavic123.github.io/my-blog-assets/slike/48.png",
+      "src": "https://jelenasavic123.github.io/my-blog-assets/48.png",
       "sizes": "48x48",
       "type": "image/png"
     },
     {
-      "src": "https://jelenasavic123.github.io/my-blog-assets/slike/64.png",
+      "src": "https://jelenasavic123.github.io/my-blog-assets/64.png",
       "sizes": "64x64",
       "type": "image/png"
     },
     {
-      "src": "https://jelenasavic123.github.io/my-blog-assets/slike/128.png",
+      "src": "https://jelenasavic123.github.io/my-blog-assets/128.png",
       "sizes": "128x128",
       "type": "image/png"
     },
     {
-      "src": "https://jelenasavic123.github.io/my-blog-assets/slike/192.png",
+      "src": "https://jelenasavic123.github.io/my-blog-assets/192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://jelenasavic123.github.io/my-blog-assets/slike/360.png",
+      "src": "https://jelenasavic123.github.io/my-blog-assets/360.png",
       "sizes": "360x360",
       "type": "image/png"
     },
     {
-      "src": "https://jelenasavic123.github.io/my-blog-assets/slike/512.png",
+      "src": "https://jelenasavic123.github.io/my-blog-assets/512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
   ],
   "screenshots": [
     {
-      "src": "https://jelenasavic123.github.io/my-blog-assets/slike/screenshot1.png",
+      "src": "https://jelenasavic123.github.io/my-blog-assets/screenshot1.png",
       "sizes": "360x640",
       "type": "image/png"
     },
     {
-      "src": "https://jelenasavic123.github.io/my-blog-assets/slike/screenshot2.png",
+      "src": "https://jelenasavic123.github.io/my-blog-assets/screenshot2.png",
       "sizes": "360x640",
       "type": "image/png"
     }
