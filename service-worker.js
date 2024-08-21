@@ -4,8 +4,8 @@ const urlsToCache = [
   '/index.html',
   '/styles/main.css',
   '/scripts/main.js',
-  '/p/lista-svih-serija_5.html',
-  // Dodajte ostale URL-ove stranica koje želite da keširate
+  '/p/lista-svih-serija_5.html'
+  // Dodajte sve URL-ove stranica koje želite da keširate
 ];
 
 // Instalirajte service worker i keširajte stranice
