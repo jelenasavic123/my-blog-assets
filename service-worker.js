@@ -14,7 +14,7 @@ const urlsToCache = [
   'https://jelenasavic123.github.io/my-blog-assets/360.png',
   'https://jelenasavic123.github.io/my-blog-assets/512.png',
   'https://jelenasavic123.github.io/my-blog-assets/screen360x640.png',
-  'https://jelenasavic123.github.io/my-blog-assets/screenshot2.png'
+  'https://jelenasavic123.github.io/my-blog-assets/screen480x640.png'
 ];
 
 // Instalirajte service worker i keširajte stranice
