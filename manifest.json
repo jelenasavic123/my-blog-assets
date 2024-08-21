@@ -2,7 +2,7 @@
   "name": "Sve na dlanu",
   "short_name": "Offline",
   "description": "Sve na dlanu od sad i offline",
-  "start_url": "https://jelenasavic123.github.io/atv/snd1.html",
+  "start_url": "https://jelenasavic123.github.io/my-blog-assets/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
