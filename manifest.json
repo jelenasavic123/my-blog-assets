@@ -30,12 +30,12 @@
   ],
   "screenshots": [
     {
-      "src": "https://jelenasavic123.github.io/my-blog-assets/screenshots/screenshot1.png",
+      "src": "https://jelenasavic123.github.io/my-blog-assets/screenshot1.png",
       "sizes": "360x640",
       "type": "image/png"
     },
     {
-      "src": "https://jelenasavic123.github.io/my-blog-assets/screenshots/screenshot2.png",
+      "src": "https://jelenasavic123.github.io/my-blog-assets/screenshot2.png",
       "sizes": "640x360",
       "type": "image/png"
     }
