@@ -13,7 +13,7 @@ const urlsToCache = [
   'https://jelenasavic123.github.io/my-blog-assets/192.png',
   'https://jelenasavic123.github.io/my-blog-assets/360.png',
   'https://jelenasavic123.github.io/my-blog-assets/512.png',
-  'https://jelenasavic123.github.io/my-blog-assets/screenshot1.png',
+  'https://jelenasavic123.github.io/my-blog-assets/screeshot680x480.png',
   'https://jelenasavic123.github.io/my-blog-assets/screenshot2.png'
 ];
 
