@@ -2,7 +2,7 @@
   "name": "Sve na dlanu",
   "short_name": "Offline",
   "description": "Sve na dlanu od sad i offline",
-  "start_url": "https://www.svenadlanuplus.club/p/lista-svih-serija_5.html",
+  "start_url": "/p/lista-svih-serija_5.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
@@ -17,5 +17,6 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ]
+  ],
+  "id": "/p/lista-svih-serija_5.html"
 }
