@@ -1,7 +1,6 @@
 const CACHE_NAME = 'my-cache-v1';
 const urlsToCache = [
   '/',
-  '/index.html',
   '/styles/main.css',
   '/scripts/main.js',
   '/p/lista-svih-serija_5.html',  // Dodajte sve URL-ove koje želite da keširate
